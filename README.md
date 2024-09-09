@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quangptt0910
 - 👀 I’m interested in codingg 
-- 🌱 I’m currently learning Medical informatics at Politechnika Wroclawska
+- 🌱 I’m studying Medical Informatics at Politechnika Wroclawska
 
 <!---
 quangptt0910/quangptt0910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
