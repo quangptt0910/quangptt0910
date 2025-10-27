@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quangptt0910
+- 👋 Hi, I’m Quang
 - 👀 I’m interested in codingg 
 - 🌱 I’m studying Medical Informatics at Politechnika Wroclawska
 
